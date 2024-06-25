@@ -1,0 +1,40 @@
+1. You can see what you'll be building in this exercise
+here.
+In style.css, add the
+rid-tem late-areas • -
+ruleset.
+. container
+Its value should create a 2-column, 4-row layout
+with these areas:
+• header (spans two columns in the first row)
+• nav (spans two columns in the second row)
+• left (spans one column on the left in the third
+row)
+• right (spans one column on the right in the
+third row)
+• footer (spans two columns in the fourth row)
+
+-
+
+2. In style.css, inside the
+ruleset, set the header
+property to have a value of header
+
+-
+
+3. Follow the same pattern for the nav, left, right and footer
+rulesets in style.css.
+
+-
+
+4. in the .container ruleset, use grid-template-colums
+property to make the first column 200 pixels wide
+and the second column 400 pixels wide.
+
+-
+
+5. In the .container ruleset, use the grid-template-rows 
+property to make the rows 150 pixels, 200 pixels, 600 pixels,
+and 200 pixels tall
+
+
